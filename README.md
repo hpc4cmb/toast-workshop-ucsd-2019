@@ -1,4 +1,4 @@
-# TOAST workshop and hackaton at UC San Diego
+# TOAST workshop and hackathon at UC San Diego
 
 ## Location and dates
 
