@@ -16,3 +16,10 @@ Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9), the
 ### Tuesday October 15th
 
 ### Wednesday October 16th
+
+## Acknowledgements
+
+![](https://www.esteri.it/logo-farnesina.gif)
+
+Funded by a grant from the Italian Ministry of Foreign Affairs and
+International Cooperation (MAE0066126, PI Maurizio Tomasi).
