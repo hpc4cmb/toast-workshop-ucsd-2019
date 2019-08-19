@@ -11,11 +11,19 @@ Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9), the
 
 ## Preliminary agenda
 
-### Monday October 14th
+### Monday October 14th (afternoon only)
+
+1pm-5pm : Introduction to TOAST
 
 ### Tuesday October 15th
 
+9am-12pm : Introduction to TOAST
+
+1pm-5pm : How to implement TOAST operators
+
 ### Wednesday October 16th
+
+9am-5pm : Hack on your own project
 
 ## Acknowledgements
 
