@@ -7,7 +7,7 @@
 
 ## Registration
 
-Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9), there is no registration fee.
+Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9) by September 30th; there is no registration fee.
 
 ## Preliminary agenda
 
