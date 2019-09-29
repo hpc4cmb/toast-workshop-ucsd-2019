@@ -38,7 +38,7 @@ Time | Event
 15:45 | Future Directions / Roadmap
 16:15 | Hackathon Ideas and Discussion
 17:00 | End of Day 2
-18:00 | Astronomy on Tap:  Informal short talks at local pub
+18:00 | Astronomy on Tap San Diego: Special TOAST edition at New English Brewing (10min drive from UCSD)
 
 ### Wednesday October 16th
 
