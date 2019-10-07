@@ -13,6 +13,14 @@ Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9) by S
 
 Once you register, you will be added to the mailing list on Google Groups for announcements, you can also check messages on the web and ask to join at <https://groups.google.com/forum/#!forum/toast-workshop-ucsd-2019>
 
+## Attend remotely via Zoom
+
+Zoom Meeting https://ucsd.zoom.us/j/424492016
+
+* Meeting ID: 424 492 016
+* Find your local number: https://zoom.us/u/adPue3mkc2
+* Join by Skype for Business https://ucsd.zoom.us/skype/424492016
+
 ## Preliminary agenda
 
 We will have snacks (nut-free) and coffee when the workshop starts on Monday afternoon and then breakfast/mid-morning/mid-afternoon breaks. For lunch we will walk to the [UCSD food court at the Price Center](https://blink.ucsd.edu/facilities/services/general/personal/dining.html) and everyone can buy their own lunch.
