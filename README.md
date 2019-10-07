@@ -15,7 +15,7 @@ Once you register, you will be added to the mailing list on Google Groups for an
 
 ## Preliminary agenda
 
-We will have snacks (nut-free) and coffee when the workshop starts on Monday afternoon and then breakfast/mid-morning/mid-afternoon breaks. For lunch we will walk to the UCSD food court and everyone can buy their own lunch.
+We will have snacks (nut-free) and coffee when the workshop starts on Monday afternoon and then breakfast/mid-morning/mid-afternoon breaks. For lunch we will walk to the [UCSD food court at the Price Center](https://blink.ucsd.edu/facilities/services/general/personal/dining.html) and everyone can buy their own lunch.
 
 ### Monday October 14th (afternoon only)
 
