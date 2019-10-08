@@ -1,5 +1,7 @@
 # Lesson Setup
 
+**WORK IN PROGRESS.  If you are reading this and the lessons prior to the workshop, things will be broken and incomplete.**
+
 These notebooks are designed to run on the https://jupyter.nersc.gov but the serial portion of the notebooks should run anywhere that TOAST is installed.  You can set up these notebooks completely within the jupyter session.
 
 ## Connect to Jupyterhub
