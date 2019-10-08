@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-ucsd-2019.svg)](https://gitter.im/hpc4cmb/toast-workshop-ucsd-2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # TOAST workshop and hackathon at UC San Diego
 
 ## Location and dates
@@ -15,7 +17,7 @@ Once you register, you will be added to the mailing list on Google Groups for an
 
 ## Chat room
 
-Please connect to the chat room on [Gitter](https://gitter.im/hpc4cmb/toast-workshop-ucsd-2019), you should login with your Github credentials.
+Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-ucsd-2019.svg)](https://gitter.im/hpc4cmb/toast-workshop-ucsd-2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), you should login with your Github credentials. Alternatively, GitLab or Twitter account can also be used to login.
 
 ## Attend remotely via Zoom
 
