@@ -9,9 +9,11 @@
 
 Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9) by September 30th; there is no registration fee.
 
-## Mailing list
+## Mailing list and chat room
 
 Once you register, you will be added to the mailing list on Google Groups for announcements, you can also check messages on the web and ask to join at <https://groups.google.com/forum/#!forum/toast-workshop-ucsd-2019>
+
+Please connect to the chat room on [Gitter](https://gitter.im/hpc4cmb/toast-workshop-ucsd-2019), you should login with your Github credentials.
 
 ## Attend remotely via Zoom
 
