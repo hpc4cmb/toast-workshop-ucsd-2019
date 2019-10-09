@@ -42,6 +42,8 @@ Under the Run menu, select "Run all".  This will submit an interactive job at th
 
 # Developer Notes
 
-This git repository has a hook which runs the `nbstripout` tool on notebooks when committing.  You will need to have that tool installed (via pip or conda) to commit changes to the notebooks.  If you are doing this from a NERSC jupyterlab terminal, `conda install nbstripout` to install it in the jupyter conda environment.
+This git repository has a hook which runs the `nbstripout` tool on notebooks when committing.  You will need to have that tool installed (via pip or conda) to commit changes to the notebooks.  If you are doing this from a NERSC jupyterlab terminal, `conda install nbstripout` to install it in the jupyter conda environment.  You should then go into this git repo and do:
+
+    nbstripout --install
 
 If you want to update the rendered notebooks, connect to NERSC's jupyter lab.  Then open each notebook and "Run all" cells.  Note that this submit interactive jobs, etc, which is why we don't automate the execution of all notebooks on conversion.  After the notebooks are all run and the output is generated, open a jupyter terminal and run the lessons/render.py script.  This will export all notebooks to html and copy them to the web-visible directory.
