@@ -109,3 +109,5 @@ lessons/*/*.html
 # TOAST unit test output
 toast_test_output
 
+# Generated data
+intro_focalplane_mpi.pdf
