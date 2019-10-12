@@ -105,3 +105,7 @@ venv.bak/
 
 # Generated html
 lessons/*/*.html
+
+# Generated data
+simscan_satellite_hits*.fits
+
