@@ -110,5 +110,11 @@ lessons/*/*.html
 toast_test_output
 
 # Generated data
-intro_focalplane_mpi.pdf
-simscan_satellite_hits*.fits
+
+lessons/01_Introduction/intro.py
+lessons/01_Introduction/intro_mpi.py
+lessons/01_Introduction/intro_focalplane_mpi.pdf
+
+lessons/02_Simulated_Scan_Strategies/simscan_satellite_mpi.py
+lessons/02_Simulated_Scan_Strategies/simscan_satellite_hits*.fits
+
