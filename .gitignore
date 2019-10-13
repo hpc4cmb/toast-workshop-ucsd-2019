@@ -111,3 +111,4 @@ toast_test_output
 
 # Generated data
 intro_focalplane_mpi.pdf
+simscan_satellite_hits*.fits
