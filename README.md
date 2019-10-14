@@ -28,6 +28,8 @@ Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-ucsd-2019.svg)
 
 Zoom Meeting https://ucsd.zoom.us/j/424492016
 
+You can ask questions on the Chat room on Gitter, see above.
+
 * Meeting ID: 424 492 016
 * Find your local number: https://zoom.us/u/adPue3mkc2
 * Join by Skype for Business https://ucsd.zoom.us/skype/424492016
