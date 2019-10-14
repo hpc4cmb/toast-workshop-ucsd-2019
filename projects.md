@@ -1,5 +1,7 @@
 ## Preliminary list of hack projects
 
+In no particular order:
+
 1. Mapping ground signal
 1. Cross-talk
 1. Planet and/or point source simulations
