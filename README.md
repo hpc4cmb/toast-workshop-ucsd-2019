@@ -7,6 +7,11 @@
 * Auditorium of the [San Diego Supercomputer Center](https://goo.gl/maps/PMgtzSJ6HCjaBefq9) in the University of California, San Diego campus
 * From Monday October 14th to Wednesday October 16th, just before and colocated with the CMB-S4 collaboration meeting
 
+## Code of conduct
+
+During the meeting, each participant should adhere at all times to the [UC Standards of Ethical Conduct]
+(https://regents.universityofcalifornia.edu/governance/policies/1111.html).
+
 ## Registration
 
 Please fill in the [registration form](https://forms.gle/fM29yRg1JYgsyFyg9) by September 30th; there is no registration fee.
