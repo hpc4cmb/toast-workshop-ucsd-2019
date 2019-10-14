@@ -9,8 +9,7 @@
 
 ## Code of conduct
 
-During the meeting, each participant should adhere at all times to the [UC Standards of Ethical Conduct]
-(https://regents.universityofcalifornia.edu/governance/policies/1111.html).
+During the meeting, each participant should adhere at all times to the [UC Standards of Ethical Conduct](https://regents.universityofcalifornia.edu/governance/policies/1111.html).
 
 ## Registration
 
