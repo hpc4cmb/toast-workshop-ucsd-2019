@@ -52,8 +52,8 @@ Time | Event
 13:00 | Arrive and Set Up
 13:30 | Meeting Overview
 13:45 | Introduction to TOAST
-14:30 | Simulated Scan Strategies
-15:30 | Coffee Break
+14:45 | Simulated Scan Strategies
+15:45 | Coffee Break
 16:00 | Simulated Sky Signals
 17:00 | End of Day 1
 
@@ -63,11 +63,11 @@ Time | Event
 -----|--------
 09:00 | Arrive and Set Up
 09:15 | Simulated Instrument Signals
-10:15 | Coffee Break
+10:30 | Coffee Break
 10:45 | Interfacing to Real Data
 11:45 | Lunch Break
 13:15 | Map Making
-14:15 | Coffee Break
+14:30 | Coffee Break
 14:45 | Pipelines
 15:45 | Future Directions / Roadmap
 16:15 | Hackathon Ideas and Discussion
@@ -84,7 +84,7 @@ Time | Event
 10:45 | More Hacking
 12:00 | Lunch Break
 13:15 | More Hacking
-14:15 | Coffee Break
+14:30 | Coffee Break
 14:45 | More Hacking
 16:00 | Close Out
 17:00 | End of Day 3
