@@ -56,7 +56,17 @@ def check_nersc(reservation=None):
     return (nersc_host, nersc_repo)
 
 
-def fake_focalplane():
+def fake_focalplane(
+    samplerate=20,
+    epsilon=0,
+    net=1,
+    fmin=0,
+    alpha=1,
+    fknee=0.05,
+    fwhm=30,
+    npix=7,
+    fov=3.0
+):
     """Create a set of fake detectors.
 
     This generates 7 pixels (14 dets) in a hexagon layout at the boresight
@@ -70,22 +80,12 @@ def fake_focalplane():
 
     """
     zaxis = np.array([0, 0, 1.0])
-    samplerate = 20.0
-    epsilon = 0.0
-    net = 1.0
-    fmin = 0.0
-    alpha = 1.0
-    fknee = 0.05
-    fwhm = 30.0
-    
-    npix = 7
-    ndet = 2 * npix
     
     pol_A = hex_pol_angles_qu(npix)
     pol_B = hex_pol_angles_qu(npix, offset=90.0)
     
-    dets_A = hex_layout(npix, 3.0, "", "", pol_A)
-    dets_B = hex_layout(npix, 3.0, "", "", pol_B)
+    dets_A = hex_layout(npix, fov, "", "", pol_A)
+    dets_B = hex_layout(npix, fov, "", "", pol_B)
     
     dets = dict()
     for p in range(npix):
