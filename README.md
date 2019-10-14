@@ -23,6 +23,10 @@ Once you register, you will be added to the mailing list on Google Groups for an
 
 Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-ucsd-2019.svg)](https://gitter.im/hpc4cmb/toast-workshop-ucsd-2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), you should login with your Github credentials. Alternatively, GitLab or Twitter account can also be used to login.
 
+## Shared Notes
+
+[In the Google Doc Here](https://docs.google.com/document/d/1gG-gYqc8vrDm57WzRrrWgMSbedp0LNrHErwNT4YYYa4/edit?usp=sharing)
+
 ## Attend remotely via Zoom
 
 Zoom Meeting https://ucsd.zoom.us/j/424492016
