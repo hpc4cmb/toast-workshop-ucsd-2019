@@ -38,6 +38,10 @@ You can ask questions on the Chat room on Gitter, see above.
 
 We will have snacks (nut-free) and coffee when the workshop starts on Monday afternoon and then breakfast/mid-morning/mid-afternoon breaks. For lunch we will walk to the [UCSD food court at the Price Center](https://blink.ucsd.edu/facilities/services/general/personal/dining.html) and everyone can buy their own lunch.
 
+## Hack projects
+
+[Proposals for hacking projects](projects.md)
+
 ### Monday October 14th (afternoon only)
 
 Time | Event
