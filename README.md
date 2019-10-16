@@ -76,6 +76,8 @@ Time | Event
 
 ### Wednesday October 16th
 
+No Zoom on Wednesday as everyone will work individually on back projects
+
 Time | Event
 -----|--------
 09:00 | Arrive and Set Up
