@@ -35,7 +35,7 @@ Quaternion array resources:
     2.  Ground pickup (PG)--call with Kevin at 10:30 am, existing
         jupyter notebook
 
-2.  Cross-talk
+2.  Cross-talk - Max,Tran,Jake (UCSD)
 
 3.  Planet and/or point source simulations - Aamir, Zhilei
     
