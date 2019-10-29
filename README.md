@@ -25,7 +25,7 @@ Please [![Gitter](https://badges.gitter.im/hpc4cmb/toast-workshop-ucsd-2019.svg)
 
 ## Shared Notes
 
-[In the Google Doc Here](https://docs.google.com/document/d/1gG-gYqc8vrDm57WzRrrWgMSbedp0LNrHErwNT4YYYa4/edit?usp=sharing)
+[In the Google Doc Here](https://docs.google.com/document/d/1gG-gYqc8vrDm57WzRrrWgMSbedp0LNrHErwNT4YYYa4/edit?usp=sharing). See a cached version of the note [here in the repo](notes.md).
 
 ## Attend remotely via Zoom
 
